@@ -2,7 +2,7 @@ This is a collaborative list of awards that women in tech could get nominated fo
 
 # List of Awards
 
-## Red Hat Women in Open Source
+##Red Hat Women in Open Source
 [Red Hat Women in Open Source](https://www.redhat.com/en/about/press-releases/nominations-open-2018-red-hat-women-open-source-awards) 
 Eligibility: Nominations for this year's awards will be accepted for two categories: Academic, open to women who are enrolled full-time, earning 12 or more credit hours, in college or university; and Community, open to all other women contributing to projects related to open source.
 Deadline: October 30, 2017.
